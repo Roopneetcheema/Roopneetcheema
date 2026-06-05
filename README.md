@@ -29,56 +29,8 @@ Current   : Building products & solving problems
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,firebase,html,css,git,github,vscode" />
 </p>
 
----
 
-## Currently Working On
 
-<table>
-<tr>
-<td width="50%">
-
-```cpp
-class Roopneet {
-public:
-    void dailyRoutine() {
-        solveLeetcode();
-        buildProjects();
-        playBasketball();
-        learnSomethingNew();
-    }
-};
-```
-
-</td>
-
-<td width="50%">
-
-```txt
-Rehabify
-TIES Platform
-Machine Learning
-Open Source
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Roopneetcheema&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roopneetcheema&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
 
 ### Technologies I Enjoy
 
