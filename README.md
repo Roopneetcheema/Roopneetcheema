@@ -2,7 +2,7 @@
 
 # ROOPNEET CHEEMA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Building+Things+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=7b9cd1&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Building+Things+That+Matter" />
 
 <br>
 
