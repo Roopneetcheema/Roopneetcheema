@@ -7,7 +7,7 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Roopneetcheema&color=blue&style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-9.89-success?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-9.92-success?style=for-the-badge)
 ![Thapar](https://img.shields.io/badge/THAPAR-TIET-red?style=for-the-badge)
 
 </div>
